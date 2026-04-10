@@ -1,0 +1,3 @@
+1-Responda a pergunta, o que e polimorfismo e qual sua utilização?
+A capacidade de um método ter múltiplas implementações. Uma superclasse define um método, e subclasses o reescrevem (override) para comportamentos específicos.
+Podemos notar a importância do Polimorfismo para a redução de código, simplicidade, flexibilidade e segurança
