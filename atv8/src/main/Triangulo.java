@@ -1,4 +1,4 @@
-class Triangulo implements FormaGeometrica {
+class Triangulo implements formaGeometrica {
 
     private double base;
     private double altura;
